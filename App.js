@@ -5,7 +5,7 @@ const logoImge = require('./assets/adaptive-icon.png');
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Hello, Tony Bandya!</Text>
+      <Text>Hello, Declan Irakoze!</Text>
       <StatusBar style="light" />
       {/*<Image source={logoImge} style={{width: 300, height: 300}} />/>
       <Image
